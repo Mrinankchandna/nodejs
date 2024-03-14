@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Paneer Tikka Masala",
+      "price": 12.99,
+      "description": "Chunks of paneer cooked in a creamy tomato gravy with spices."
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 14.99,
+      "description": "Tender chicken pieces cooked in a rich and creamy tomato-based sauce."
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 13.99,
+      "description": "Fragrant basmati rice cooked with tender chicken and aromatic spices."
+    },
+    {
+      "name": "Dal Makhani",
+      "price": 11.99,
+      "description": "Slow-cooked lentils with butter and cream, flavored with spices."
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 12.49,
+      "description": "Creamy spinach curry with cubes of paneer."
+    },
+    {
+      "name": "Aloo Gobi",
+      "price": 10.99,
+      "description": "Spiced cauliflower and potatoes cooked together in a flavorful gravy."
+    },
+    {
+      "name": "Chana Masala",
+      "price": 11.49,
+      "description": "Chickpeas cooked in a spicy and tangy tomato-based sauce."
+    },
+    {
+      "name": "Vegetable Biryani",
+      "price": 12.99,
+      "description": "Fragrant basmati rice cooked with mixed vegetables and aromatic spices."
+    },
+    {
+      "name": "Samosa",
+      "price": 5.99,
+      "description": "Crispy pastry filled with spiced potatoes and peas."
+    },
+    {
+      "name": "Naan",
+      "price": 3.49,
+      "description": "Soft and fluffy Indian bread baked in a tandoor oven."
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 4.99,
+      "description": "Refreshing yogurt-based drink blended with ripe mangoes."
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 6.99,
+      "description": "Soft and sweet dumplings soaked in sugar syrup."
+    }
+  ]
+  
