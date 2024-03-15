@@ -60,7 +60,7 @@ For any inquiries or feedback, feel free to contact the project maintainers:
 
 LinkedIn:www.linkedin.com/in/mrinank-chandna-318b96192
 
-Email: mrinankchandna17.com
+Email: mrinankchandna17@gmail.com
 
 
 Project Link: https://github.com/Mrinankchandna/nodejs
